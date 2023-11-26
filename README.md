@@ -8,4 +8,5 @@ Transformation: Utilized MySQL for data transformation. Established an original 
 
 Queries: Employed MySQL syntax to solve queries and gather insights on Maven Market: Query Examples: Calculate the average cost per product, Summarize sales per store, Calculate the overall revenue from transactions, Identify the top 5 returned products by count, etc.
 
-SQL Text file link:
+SQL Text file link:https://drive.google.com/file/d/1YR-KJZ1DrwtkaGrM33sCINaXi9PWIN9s/view?usp=sharing
+PDF file link:https://drive.google.com/file/d/1GF5a9gyXzMg9sqxDmbweKUzrh2gdKxX5/view?usp=sharing
